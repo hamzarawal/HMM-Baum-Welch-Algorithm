@@ -1,5 +1,5 @@
 # Baum-Welch-Algorithm
-Implementation of Baum-Welch (Forward-Backward) algorithm in Python.
+Numpy Implementation of Baum-Welch (Forward-Backward) algorithm in Python.
 
 This algorithm can run for any number of states and observations. The default example has two states (H&C) and three possible observations (emissions) namely 1, 2 and 3. Following are the matrices/variables that needs to be adjusted:
 
